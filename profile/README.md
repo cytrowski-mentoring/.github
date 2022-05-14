@@ -8,3 +8,7 @@
   <a href="https://www.linkedin.com/in/cytrowski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cytrowski/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cytrowski&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
